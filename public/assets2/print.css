@@ -1,0 +1,36 @@
+
+    body {
+        /*height: 842px;*/
+        /*width: 595px;*/
+        height:29.7cm;
+        width:21cm;
+        /*height:12.99in;*/
+        /*height: 100%;*/
+        /*width:8.27in;*/
+        /* to centre page on screen*/
+        margin-left: auto;
+        margin-right: auto;
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    table { 
+        font-family: Arial, Helvetica, sans-serif; 
+    } 
+
+    .tbl_inti {
+        width: 100%; 
+    }
+    .tbl_inti td {
+        padding: 10px;
+        border-collapse: collapse;
+    }
+
+    .tbl_rekomendasi {
+        border-collapse: collapse; 
+        width: 100%;
+    }
+    .tbl_rekomendasi td { 
+        padding: 10px;
+    }
+    .tbl_rekomendasi, .tbl_rekomendasi th, .tbl_rekomendasi td { 
+        border: 1px solid black; 
+    }
